@@ -44,3 +44,8 @@ This project uses a **Random Forest Classifier** to predict the target variable 
 ## Results
 The model achieves an accuracy of **99%** on the test dataset. 
 
+## Acknowledgements
+- [Kaggle](https://www.kaggle.com) for the dataset
+- [Scikit-learn](https://scikit-learn.org) for machine learning tools
+- [Pandas](https://pandas.pydata.org) for data manipulation
+
